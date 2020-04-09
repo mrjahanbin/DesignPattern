@@ -1,0 +1,13 @@
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.exe
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.deps.json
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.json
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfo.cs
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+D:\Projects\GitProjects\DesignPattern\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.genruntimeconfig.cache
